@@ -1,5 +1,4 @@
 
-<span class='anchor' id='honors-and-awards'></span>
 # 🎖️ Honors and Awards
 - Comprehensive Merit Scholarship, Tianjin University, 2021.
 - China National Scholarship, 2018.
