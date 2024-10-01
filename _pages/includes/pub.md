@@ -10,3 +10,7 @@
 
 ## Others
 - ``CCL 2023`` [Through the Lens of Core Competency: Survey on Evaluation of Large Language Models](https://aclanthology.org/2023.ccl-2.pdf#page=93), Ziyu Zhuang, Qiguang Chen, Longxuan Ma, Mingda Li, Yi Han, **Yushan Qian**, Haopeng Bai, Weinan Zhang, Ting Liu.
+
+# 🛠️ Projects
+- [paddle-wechaty-Zodiac](https://github.com/27182812/paddle-wechaty-Zodiac), ![](https://img.shields.io/github/stars/27182812/paddle-wechaty-Zodiac).
+- [ChatGLM-LLaMA-chinese-insturct](https://github.com/27182812/ChatGLM-LLaMA-chinese-insturct), ![](https://img.shields.io/github/stars/27182812/ChatGLM-LLaMA-chinese-insturct).
